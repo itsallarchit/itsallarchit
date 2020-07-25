@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working at @StudentCode-in
 - 🌱 I’m currently learning Cloud
-- 👯 I’m looking to collaborate on AWS
 - 💬 Ask me about anything
+- ⚡ Fun fact:I read a lot of books.
 - 📫 How to reach me:
 <p>
   <a href="https://www.linkedin.com/in/archit-tyagi-930a7b175/">
@@ -16,5 +16,5 @@
     <img src="https://img.shields.io/badge/@itsallarchit-30302f?style=flat&logo=twitter">
   </a></p>
 
-- ⚡ Fun fact:I read a lot of books.
+
 
